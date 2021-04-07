@@ -19,7 +19,10 @@ Here are the generated images for every 10 epochs:
 <br/>
 <br/>
 <br/>
-
+Here is also the differance between the old DCGAN (left) VS the new ACGAN (right)
+<br/>
+<br/>
+<br/>
 ![AC VS DC 10](https://user-images.githubusercontent.com/57365322/113938639-2a779e80-97fb-11eb-94ad-33f06509335e.jpg)
 <br/>
 <br/>
@@ -36,4 +39,4 @@ Here are the generated images for every 10 epochs:
 <br/>
 <br/>
 <br/>
-Here is also the differance between the old DCGAN (left) VS the new ACGAN (right)
+
