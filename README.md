@@ -19,4 +19,21 @@ Here are the generated images for every 10 epochs:
 <br/>
 <br/>
 <br/>
+
+![AC VS DC 10](https://user-images.githubusercontent.com/57365322/113938639-2a779e80-97fb-11eb-94ad-33f06509335e.jpg)
+<br/>
+<br/>
+![AC VS DC 20](https://user-images.githubusercontent.com/57365322/113938647-2ba8cb80-97fb-11eb-8c70-4c38d05a33be.jpg)
+<br/>
+<br/>
+![AC VS DC 30](https://user-images.githubusercontent.com/57365322/113938653-2cd9f880-97fb-11eb-919e-73895ef6bb14.jpg)
+<br/>
+<br/>
+![AC VS DC 40](https://user-images.githubusercontent.com/57365322/113938655-2e0b2580-97fb-11eb-985d-39cb312e7e40.jpg)
+<br/>
+<br/>
+![AC VS DC 50](https://user-images.githubusercontent.com/57365322/113938659-2f3c5280-97fb-11eb-8ece-2391ba3d333d.jpg)
+<br/>
+<br/>
+<br/>
 Here is also the differance between the old DCGAN (left) VS the new ACGAN (right)
