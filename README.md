@@ -1,4 +1,4 @@
-# ACGAN-MNIST-Image
+#Auxiliary Classifier GAN-MNIST-Image
 This is a update from my normal dcgan. Gives way better results!
 <br/>
 Here are the generated images for every 10 epochs:
